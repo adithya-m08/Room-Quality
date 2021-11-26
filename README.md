@@ -18,5 +18,3 @@ IoT Project using 'Blynk' to measure and report Temperature, Humidity, Toxic gas
 1) "wifissid" with your Wifi SSID
 2) "wifipassword" with your Wifi Password
 3) "authkey" with your Blynk AuthKey
-4) BaudRate, Pins connected to the sensors
-
